@@ -31,9 +31,9 @@ DayTopicNotebookDay 1Missing Value Detection & ImputationMachine_learning_Day1.i
 
 🛠 Running Any Notebook
 
-Clone the repository:
+Clone the repository:https://github.com/MahadRayyan/Machine-Learning
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone 
 
 Install dependencies:
 
